@@ -1,6 +1,8 @@
 # lambda_spectrum
 
-This repository contains the code associated to "A spctrum of routing strategies for brain networks", currently under pre-print at PLoS Computational Biology.
+This repository contains the code associated to "A spctrum of routing strategies for brain networks", published at PLoS Computational Biology.
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006833
 
 
 Dependencies: this code requires you to have the latest version of the Brain Connectivity Toolbox (BCT) in your Matlab path. You can download the BCT from [HERE](https://sites.google.com/site/bctnet/ "Go to BCT download")
